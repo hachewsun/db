@@ -1,22 +1,28 @@
 {
 	"courts": [
 	{
-		"name": "bukit batok",
+		"name": "Sunny Court",
 		"address": "bukit batok",
 		"type": "4 a side",
 		"cost": 15.0
 	},
 	{
-		"name": "Expo",
+		"name": "Indoor Courts",
 		"address": "Tempines",
 		"type": "6 a side",
 		"cost": 15.0
 	},
 	{
-		"name": "Jurong East",
+		"name": "Jurong Fun",
 		"address": "bukit batok",
 		"type": "4 a side",
-		"cost": 15.0
+		"cost": 17.0
+	},
+	{
+		"name": "Pioneer Rox",
+		"address": "Jurong West",
+		"type": "7 a side",
+		"cost": 10.0
 	}
 ]
 }
