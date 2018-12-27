@@ -1,0 +1,22 @@
+{
+	"courts": [
+	{
+		"name": "bukit batok",
+		"address": "bukit batok",
+		"type": "4 a side",
+		"cost": 15.0
+	},
+	{
+		"name": "Expo",
+		"address": "Tempines",
+		"type": "6 a side",
+		"cost": 15.0
+	},
+	{
+		"name": "Jurong East",
+		"address": "bukit batok",
+		"type": "4 a side",
+		"cost": 15.0
+	}
+]
+}
